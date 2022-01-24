@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Front End Web Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me facebook.com/muab4726
+- 📫 How to reach me facebook.com/mirzaghalib4726
 
 <!---
 mirzaghalib4726/mirzaghalib4726 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
