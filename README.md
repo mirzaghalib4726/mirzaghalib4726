@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mirzaghalib4726
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Front End Web Development
+- 🌱 I’m currently doing Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me facebook.com/mirzaghalib4726
 
