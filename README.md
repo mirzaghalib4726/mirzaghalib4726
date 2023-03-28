@@ -1,14 +1,13 @@
-<h1 align="center">Hey 👋, Abdul Moeez here</h1>
-<h3 align="center">I am a Computer Science Major Senior with passion for learning new technologies and improving what i already know.</h3>
+<h1 align="center">Hey 👋, Mirza Usama Ali Baig here</h1>
+<h3 align="center">I am a Computer Science Major Senior with passion for learning new technologies and improving what I already know.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmoeez060&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmoeez060" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzaghalib4726&label=Profile%20views&color=0e75b6&style=flat" alt="mirzaghalib4726" /> </p>
 
 
 
-<p align="left"> <a href="https://twitter.com/amoeez_here" target="blank"><img src="https://img.shields.io/twitter/follow/amoeez_here?logo=twitter&style=for-the-badge" alt="amoeez_here" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mirzaghalib4726" target="blank"><img src="https://img.shields.io/twitter/follow/mirzaghalib4726?logo=twitter&style=for-the-badge" alt="mirzaghalib4726" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-<!-- (https://github.com/rudrabarad/Gifs for gifs) -->
 
 - 🔭 I’m currently working on **Improving My skills and learning new stuff**
 
@@ -16,19 +15,19 @@
 
 - 🤝 I’m looking for help with **Web Development and Machine Learning**
 
-- ❤️ I love when i **Find something new about a technology, i've learned**
+- ❤️ I love when I **Find something new about a technology, I've learned**
 
-- 💬 Ask me about **C++, C, Unity**
+- 💬 Ask me about **C++, React, Python, Javascript**
 
-- 📫 Reach me on **abdulmoeez0812@gmail.com**
+- 📫 Reach me on **mirza.ghalib.822@gmail.com**
 
-- ⚡ About Me **i thrive under Pressure and love to work on challenging projects**
+- ⚡ About Me **I thrive under Pressure and love to work on challenging projects**
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/abdulmoeez060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdulmoeez060" height="30" width="40" /></a>
+<a href="https://dev.to/mirzaghalib4726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdulmoeez060" height="30" width="40" /></a>
 <a href="https://twitter.com/amoeez_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amoeez_here" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdulmoeez0812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulmoeez0812" height="30" width="40" /></a>
 <a href="https://fb.com/abdulmoeez060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulmoeez060" height="30" width="40" /></a>
