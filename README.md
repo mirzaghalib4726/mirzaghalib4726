@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, Mirza Usama Ali Baig here</h1>
+<h1 align="center">Hey 👋, Mirza Usama Ali here</h1>
 <h3 align="center">I am a Computer Science Major Senior with passion for learning new technologies and improving what I already know.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzaghalib4726&label=Profile%20views&color=0e75b6&style=flat" alt="mirzaghalib4726" /> </p>
