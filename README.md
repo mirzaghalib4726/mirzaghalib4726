@@ -31,6 +31,7 @@
 <a href="https://twitter.com/mirzaghalib4726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mirzaghalib4726" height="30" width="40" /></a>
 <a href="https://linkedin.com/mirzaghalib4726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirzaghalib4726" height="30" width="40" /></a>
 <a href="https://facebook.com/mirzaghalib4726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mirzaghalib4726" height="30" width="40" /></a>
+<a href="https://wa.me/+923223114563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mirzaghalib4726" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
