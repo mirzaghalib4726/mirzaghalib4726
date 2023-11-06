@@ -17,7 +17,7 @@
 
 - ❤️ I love when I **Find something new about a technology, I've learned**
 
-- 💬 Ask me about **C++, React, Python, Javascript**
+- 💬 Ask me about **C++, NestJS, Python, Javascript**
 
 - 📫 Reach me on **mirza.ghalib.822@gmail.com**
 
