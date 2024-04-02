@@ -17,9 +17,9 @@
 
 - ❤️ I love when I **Find something new about a technology, I've learned**
 
-- 💬 Ask me about **C++, NestJS, Python, Javascript**
+- 💬 Ask me about **NestJS, Javascript, TypeScript, MongoDb, Atlas Search, CronJobs**
 
-- 📫 Reach me on **mirza.ghalib.822@gmail.com**
+- 📫 Reach me on **mirza.ghalib.822@hotmail.com**
 
 - ⚡ About Me **I thrive under Pressure and love to work on challenging projects**
 
