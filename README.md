@@ -1,41 +1,49 @@
-<h1 align="center">Hey 👋, Mirza Usama Ali here</h1>
-<h3 align="center">I am a Computer Science Major with passion for learning new technologies and improving what I already know.</h3>
+<h1 align="center">Mirza Usama Ali Baig</h1>
+<h3 align="center">Senior Full-Stack Engineer · NestJS · Laravel · FastAPI · Next.js / React · Nuxt · AI Integrations</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzaghalib4726&label=Profile%20views&color=0e75b6&style=flat" alt="mirzaghalib4726" /> </p>
-
-
-
-<p align="left"> <a href="https://x.com/mirzaghalib4726" target="blank"><img src="https://img.shields.io/twitter/follow/mirzaghalib4726?logo=twitter&style=for-the-badge" alt="mirzaghalib4726" /></a> </p>
-
-- 🔭 I’m currently working on **Improving My skills and learning new stuff**
-
-- 🤝 I’m looking for help with **Web Development and Machine Learning**
-
-- ❤️ I love when I **Find something new about a technology, I've learned**
-
-- 💬 Ask me about **NestJS, Javascript, TypeScript, MongoDb, Atlas Search, CronJobs, Docker, Socket.io, Stream, Angular**
-
-- 📫 Reach me on **mirza.ghalib.822@hotmail.com**
-
-- ⚡ About Me **I thrive under Pressure and love to work on challenging projects**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mirzaghalib4726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mirzaghalib4726" height="30" width="40" /></a>
-<a href="https://x.com/mirzaghalib4726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mirzaghalib4726" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mirzaghalib4726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirzaghalib4726" height="30" width="40" /></a>
-<a href="https://facebook.com/iiamusamaali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mirzaghalib4726" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://mirza-usama-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mirza--usama--portfolio.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/mirzaghalib4726"><img src="https://img.shields.io/badge/LinkedIn-mirzaghalib4726-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mirza_usama_822@hotmail.com"><img src="https://img.shields.io/badge/Email-mirza__usama__822%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+I build and ship production SaaS end to end — from schema design to CI/CD and deployment on AWS. Four years across executive-talent, logistics dispatch, workforce time-tracking, tax-practice management, healthcare EHR integration and private-aviation platforms, most of them live today.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirzaghalib4726&theme=onedark" alt="mirzaghalib4726" /></a> </p>
+- 🏗️ **Backends** in NestJS, Laravel 12 and Python FastAPI — clean architecture, multi-tenant RBAC, MFA/2FA, IP allowlisting, audit logs
+- ⚡ **Real-time & queues** — Socket.IO dashboards, Redis/BullMQ workers, Kafka event pipelines
+- 🤖 **AI pipelines** — OpenAI, LangChain, Claude and Gemini with OCR and PDF/DOCX extraction; ResNet-50 + FAISS visual search; YOLO computer vision
+- 💳 **Payments** — Stripe subscriptions and webhook reconciliation
+- 🖥️ **Frontends** — React, Next.js, Nuxt/Vue 3, Angular and Electron desktop apps
+- 👀 Currently at **Code Upscale**, leading backends and reviewing 200+ team PRs across client products
+- 📫 Reach me at **mirza_usama_822@hotmail.com** — open to remote roles and freelance work
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzaghalib4726&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="mirzaghalib4726" /></p>
+### Selected work
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzaghalib4726&show_icons=true&locale=en&theme=highcontrast" alt="mirzaghalib4726" /></p>
+| Product | What I did | Stack |
+| --- | --- | --- |
+| [**ExecSuccession / ExecExtend**](https://execsuccession.com) | Founding backend engineer — ~45 NestJS modules, AI resume analysis, assessments, Stripe billing, multi-tenant RBAC | NestJS · MongoDB · Next.js · OpenAI · Stripe · BullMQ |
+| **On Time Transport** | Lead contributor — trucking dispatch board, 13 domain modules, Samsara telematics, CSV and PDF delivery-schedule imports | NestJS · PostgreSQL · Redis · BullMQ · React 19 |
+| [**TrackFlow**](https://trackflow.codeupscale.com) | Laravel backend and Electron desktop agent for a Hubstaff-style time-tracking and HR/payroll SaaS | Laravel 12 · Horizon · Reverb · Next.js · Electron |
+| [**WeCloseBooks**](https://app.weclosebooks.com) | Codebase audit, security hardening plan and review for a tax-practice management platform | NestJS · TypeORM · PostgreSQL · Next.js |
+| [**UrgentFlights**](https://urgentflights.com) | AI email-to-quote pipeline (IMAP → PDF/OCR → OpenAI → draft quotes) and flight matcher | Nuxt 3 · MongoDB · OpenAI · Tesseract |
+| [**Vitals 360**](https://portal.vitals-360.com) | Sole author of the Kipu EHR patient-sync service for clinics | NestJS · PostgreSQL · Kipu API |
+| [**MIHU**](https://mihu-prod.vercel.app) | Final-year project — furniture marketplace with ResNet-50 "search by photo" served over FastAPI | FastAPI · TensorFlow · FAISS · Express · React |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaghalib4726&theme=highcontrast" alt="mirzaghalib4726" /></p>
+Most of my client work lives in private organisation repositories — the full list is on my [portfolio](https://mirza-usama-portfolio.vercel.app).
+
+### Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,ts,laravel,php,python,fastapi,react,nextjs,nuxtjs,vue,angular,tailwind,electron&perline=15" alt="Backend and frontend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,sqlite,firebase,aws,vercel,docker,githubactions,nginx,tensorflow,opencv,jest&perline=15" alt="Data, cloud and AI" />
+</p>
+
+### Connect
+
+<p>
+  <a href="https://linkedin.com/in/mirzaghalib4726"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/mirzaghalib4726"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://dev.to/mirzaghalib4726"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+  <a href="https://mirza-usama-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
